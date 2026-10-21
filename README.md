@@ -19,24 +19,24 @@ Welcome to my Web Development learning repository!
 - HTML Forms
 - HTML Input Types ("text", "password", "email", "number", "date", "file", "radio", "checkbox", "submit", "reset")
 -HTML Semantic Elements ("header", "nav", "main", "section", "article", "aside", "footer")
--HTML Block-Level and Inline Elements
--HTML "div" and "span"
--HTML Classes and IDs
--HTML "iframe"
--HTML Audio and Video
--HTML Entities and Symbols
--HTML "meta" Tags
--HTML "head" and "body" Elements
--HTML "DOCTYPE" Declaration
--HTML Layout Elements
--HTML "details" and "summary"
--HTML "progress" and "meter"
--HTML Global Attributes
--HTML Data Attributes ("data-*")
--HTML Accessibility Basics
--HTML SEO Basics
--HTML Validation and Best Practices
--HTML Mini Projects and Practice Exercises
+HTML Block-Level and Inline Elements
+HTML "div" and "span"
+HTML Classes and IDs
+HTML "iframe"
+HTML Audio and Video
+HTML Entities and Symbols
+HTML "meta" Tags
+HTML "head" and "body" Elements
+HTML "DOCTYPE" Declaration
+HTML Layout Elements
+HTML "details" and "summary"
+HTML "progress" and "meter"
+HTML Global Attributes
+HTML Data Attributes ("data-*")
+HTML Accessibility Basics
+HTML SEO Basics
+HTML Validation and Best Practices
+HTML Mini Projects and Practice Exercises
   
   🎯 Learning Goals
 
